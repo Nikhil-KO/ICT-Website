@@ -51,7 +51,8 @@ a.custom-button {
 		<a href="dead_end.html">
 		<img alt="" src="resources/accessibility_text.png" height="40"/></a>
 		<a href="basket.html"> 
-		<img alt="" src="resources/basket_logo.png" height="40" class="auto-style6" /></a>
+		<img alt="" src="resources/basket_logo.png" height="40" stlye="border-width: 0px";
+" /></a>
 	</div>
 
 <div class="auto-style2" style="border-color: #000000; border-style: solid; background-color: #292C44; color: #FF5349; height: 48px;">
