@@ -37,9 +37,6 @@ a.custom-button {
 .basket{
 	text-align: right;	
 }
-.auto-style6 {
-	border-width: 0px;
-}
 </style>
 <!-- #BeginEditable "doctitle" -->
 <!-- #EndEditable -->
